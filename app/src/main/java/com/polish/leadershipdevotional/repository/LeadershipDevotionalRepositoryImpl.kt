@@ -1,5 +1,6 @@
 package com.polish.leadershipdevotional.repository
 
+import androidx.lifecycle.LiveData
 import com.polish.leadershipdevotional.model.LeadershipDevotionalEntity
 import com.polish.leadershipdevotional.model.dao.LeadershipDevotionalDao
 import kotlinx.coroutines.Dispatchers
@@ -17,6 +18,10 @@ class LeadershipDevotionalRepositoryImpl @Inject constructor(val leadershipDevot
          withContext(Dispatchers.IO){
             leadershipDevotionalDao.insert(leadershipDevotional)
         }
+    }
+
+    override fun checkDBContentNow(): LiveData<LeadershipDevotionalEntity> {
+        return leadershipDevotionalDao.loadLeadershipDevotional()
     }
 
 

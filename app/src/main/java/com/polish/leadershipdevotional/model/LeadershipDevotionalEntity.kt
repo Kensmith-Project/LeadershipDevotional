@@ -12,4 +12,16 @@ data class LeadershipDevotionalEntity(
     val bibleRefText:String,
     val meditateTitle:String,
     val meditateBody:String
-)
+) {
+    // pregenerated data
+    companion object {
+        val leaderDevotionalData:ArrayList<LeadershipDevotionalEntity>
+            get() {
+                val data = ArrayList<LeadershipDevotionalEntity>()
+                data.add(LeadershipDevotionalEntity(1, "Day 1", "1 Timothy 1:1", "For example, I can do all things through Christ who strenghtens me", "Meditate", "Great grace was given to them"))
+                data.add(LeadershipDevotionalEntity(2, "Day 2", "1 Timothy 2:1", "For illustration, arise and shine", "Mediate", "The Lord be praise forever and ever"))
+                return data
+
+            }
+    }
+}

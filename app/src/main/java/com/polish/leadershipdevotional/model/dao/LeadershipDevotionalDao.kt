@@ -1,5 +1,6 @@
 package com.polish.leadershipdevotional.model.dao
 
+import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
@@ -17,5 +18,8 @@ interface LeadershipDevotionalDao {
 
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insert(leadershipDevotionalEntity: LeadershipDevotionalEntity)
+
+    @Query("SELECT * FROM devotion_table ORDER BY id LIMIT 1 ")
+    fun loadLeadershipDevotional():LiveData<LeadershipDevotionalEntity>
 
 }

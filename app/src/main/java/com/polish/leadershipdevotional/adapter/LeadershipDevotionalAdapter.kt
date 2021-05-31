@@ -1,12 +1,14 @@
 package com.polish.leadershipdevotional.adapter
 
+import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.polish.leadershipdevotional.R
+import com.polish.leadershipdevotional.model.LeadershipDevotionalEntity
 
-class LeadershipDevotionalAdapter(): RecyclerView.Adapter<LeadershipDevotionalAdapter.LeadershipDevotionalViewHolder>() {
+class LeadershipDevotionalAdapter(val devotionItems:List<LeadershipDevotionalEntity>): RecyclerView.Adapter<LeadershipDevotionalAdapter.LeadershipDevotionalViewHolder>() {
 
     /**
      * this is the view-holder class
@@ -22,24 +24,40 @@ class LeadershipDevotionalAdapter(): RecyclerView.Adapter<LeadershipDevotionalAd
         /**
          * this method binds the data to the views
          */
-        fun bind(){
-
+        fun bind(devotionItem:LeadershipDevotionalEntity){
+            dayCount.text = devotionItem.dayCount.toString()
+            bibleRef.text = devotionItem.bibleRef.toString()
+            bibleRefText.text = devotionItem.bibleRefText.toString()
         }
     }
 
+    /**
+     * this is to inflate the item_list layout
+     */
     override fun onCreateViewHolder(
         parent: ViewGroup,
         viewType: Int
     ): LeadershipDevotionalViewHolder {
-        TODO("Not yet implemented")
+        val view = LayoutInflater.from(parent.context).inflate(R.layout.item_list, parent, false)
+        return LeadershipDevotionalViewHolder(view)
     }
 
+    /**
+     * this is to set the data to the views
+     */
     override fun onBindViewHolder(holder: LeadershipDevotionalViewHolder, position: Int) {
-        TODO("Not yet implemented")
+        /**
+         * get an item in the array using its index position in the array
+         */
+        val currentItem = devotionItems[position]
+        holder.bind(currentItem)
     }
 
+    /**
+     * get the count
+     */
     override fun getItemCount(): Int {
-        TODO("Not yet implemented")
+        return devotionItems.size
     }
 
 }

@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.polish.leadershipdevotional.R
 import com.polish.leadershipdevotional.model.LeadershipDevotionalEntity
 
-class LeadershipDevotionalAdapter(val devotionItems:List<LeadershipDevotionalEntity>): RecyclerView.Adapter<LeadershipDevotionalAdapter.LeadershipDevotionalViewHolder>() {
+class LeadershipDevotionalAdapter(val devotionItems:List<LeadershipDevotionalEntity>, val onClickListener:OnClickListener): RecyclerView.Adapter<LeadershipDevotionalAdapter.LeadershipDevotionalViewHolder>() {
 
     /**
      * this is the view-holder class
@@ -51,6 +51,9 @@ class LeadershipDevotionalAdapter(val devotionItems:List<LeadershipDevotionalEnt
          */
         val currentItem = devotionItems[position]
         holder.bind(currentItem)
+        holder.itemView.setOnClickListener {
+            onClickListener.onClick(currentItem)
+        }
     }
 
     /**
@@ -58,6 +61,11 @@ class LeadershipDevotionalAdapter(val devotionItems:List<LeadershipDevotionalEnt
      */
     override fun getItemCount(): Int {
         return devotionItems.size
+    }
+
+    // add clicklistener to handle click events
+    class OnClickListener(val clickListener: (myDevotional:LeadershipDevotionalEntity) -> Unit) {
+        fun onClick(myDevotional: LeadershipDevotionalEntity) = clickListener(myDevotional)
     }
 
 }

@@ -8,6 +8,7 @@ import androidx.activity.viewModels
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.material.snackbar.Snackbar
 import com.polish.leadershipdevotional.adapter.LeadershipDevotionalAdapter
 import com.polish.leadershipdevotional.model.LeadershipDevotionalEntity
 import com.polish.leadershipdevotional.viewmodel.LeadershipDevotionalViewModel
@@ -57,7 +58,9 @@ class MainActivity : AppCompatActivity() {
          */
         leadershipDevotionalViewModel.allLeadershipDevotional.observe(this, Observer { devotional ->
             Log.d(TAG, "here are the content in the devotion: $devotional")
-            myAdapter = LeadershipDevotionalAdapter(devotional)
+            myAdapter = LeadershipDevotionalAdapter(devotional, LeadershipDevotionalAdapter.OnClickListener { leadershipDevotionalEntity ->
+                Snackbar.make(findViewById(R.id.activity_main_major_layout), "You clicked me; $leadershipDevotionalEntity", Snackbar.LENGTH_LONG).show()
+            })
             dsRecyclerView.adapter = myAdapter
             myAdapter.notifyDataSetChanged()
         })

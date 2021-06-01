@@ -12,12 +12,13 @@
         android:id="@+id/item_list_day_count_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="16dp"
         android:fontFamily="@font/roboto_medium"
         android:hint="@string/item_list_day"
         android:textSize="@dimen/day_text_size"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -25,27 +26,29 @@
         android:id="@+id/item_list_bible_ref_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="8dp"
         android:fontFamily="@font/roboto_medium"
         android:hint="@string/bible_ref"
         android:textSize="@dimen/day_text_size"
-        app:layout_constraintEnd_toEndOf="@+id/item_list_day_count_tv"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/item_list_day_count_tv" />
 
     <TextView
         android:id="@+id/item_list_bible_text_refer_tv"
-        android:layout_width="370dp"
-        android:layout_height="54dp"
-        android:layout_marginTop="12dp"
-
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
         android:fontFamily="@font/roboto_medium"
         android:text="@string/bible_ref_content"
         android:textSize="@dimen/bible_ref_content_size"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.39"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item_list_bible_ref_tv" />
+        app:layout_constraintTop_toBottomOf="@+id/item_list_bible_ref_tv"
+        app:layout_constraintVertical_bias="0.0" />
 </androidx.constraintlayout.widget.ConstraintLayout>

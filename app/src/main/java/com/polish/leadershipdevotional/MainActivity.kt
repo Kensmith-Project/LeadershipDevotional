@@ -1,5 +1,6 @@
 package com.polish.leadershipdevotional
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -60,6 +61,7 @@ class MainActivity : AppCompatActivity() {
             Log.d(TAG, "here are the content in the devotion: $devotional")
             myAdapter = LeadershipDevotionalAdapter(devotional, LeadershipDevotionalAdapter.OnClickListener { leadershipDevotionalEntity ->
                 Snackbar.make(findViewById(R.id.activity_main_major_layout), "You clicked me; $leadershipDevotionalEntity", Snackbar.LENGTH_LONG).show()
+                startActivity(Intent(this, DetailedDevotionalActivity::class.java))
             })
             dsRecyclerView.adapter = myAdapter
             myAdapter.notifyDataSetChanged()

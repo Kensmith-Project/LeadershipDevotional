@@ -10,6 +10,7 @@ import androidx.test.filters.SmallTest
 import androidx.test.platform.app.InstrumentationRegistry
 import com.polish.leadershipdevotional.model.LeadershipDevotionalEntity
 import com.polish.leadershipdevotional.model.dao.LeadershipDevotionalDao
+import com.polish.leadershipdevotional.utils.getValue
 import junit.framework.TestCase
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.runBlocking
@@ -39,10 +40,10 @@ class LeadersDevotionDatabaseTest : TestCase(){
     @Before
     fun setup(){
 //        val context = ApplicationProvider.getApplicationContext<Context>()
-        val context = InstrumentationRegistry.getInstrumentation().targetContext
+        val context = ApplicationProvider.getApplicationContext<Context>()
         db = Room.inMemoryDatabaseBuilder(
                 context, LeadersDevotionDatabase::class.java
-        ).build()
+        ).allowMainThreadQueries().build()
         leadershipDevotionalDao = db.leadershipDevotionalDao()
     }
 
@@ -58,13 +59,14 @@ class LeadersDevotionDatabaseTest : TestCase(){
         leadershipDevotionalDao.insert(firstDevotion)
         val myCollectionPoint = arrayListOf<LeadershipDevotionalEntity>()
         val getListOfDevotional = leadershipDevotionalDao.getAllLeadershipDevotionals().asLiveData()
+        val extratedListFromLiveData = getValue(getListOfDevotional)
         // to assert
 //        getListOfDevotional.collect {
 //            myCollectionPoint.forEach{
 //                myCollectionPoint.add(it)
 //            }
 //        }
-        assert(myCollectionPoint.contains(firstDevotion))
+        assert(extratedListFromLiveData.contains(firstDevotion))
     }
 
 

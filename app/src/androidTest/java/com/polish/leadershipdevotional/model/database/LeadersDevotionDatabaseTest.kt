@@ -55,17 +55,15 @@ class LeadersDevotionDatabaseTest : TestCase(){
 
     @Test
     fun writeAndReadDevotional() = runBlocking {
+        // Given
         val firstDevotion = LeadershipDevotionalEntity(1, "DAY O1", "1TIMOTHY 1:1", "kING OF GLORY", "YOUR PRESENCE", "King of Glory fill this place, I just want to be where You are, just wnat a be where You are")
+        // When
         leadershipDevotionalDao.insert(firstDevotion)
-        val myCollectionPoint = arrayListOf<LeadershipDevotionalEntity>()
+
         val getListOfDevotional = leadershipDevotionalDao.getAllLeadershipDevotionals().asLiveData()
+        // this extract the value from LiveData
         val extratedListFromLiveData = getValue(getListOfDevotional)
-        // to assert
-//        getListOfDevotional.collect {
-//            myCollectionPoint.forEach{
-//                myCollectionPoint.add(it)
-//            }
-//        }
+        //Then
         assert(extratedListFromLiveData.contains(firstDevotion))
     }
 

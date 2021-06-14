@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.activity.viewModels
+import androidx.appcompat.app.AlertDialog
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -46,6 +47,7 @@ class MainActivity : AppCompatActivity() {
         // if empty, then allow
 
         // now if this result is true or false
+        // when database is empty, write to the database
         if (leadershipDevotionalViewModel.CheckDBContent()){
             // write to the db
             for(devotion in someDevotionals){
@@ -62,9 +64,23 @@ class MainActivity : AppCompatActivity() {
             myAdapter = LeadershipDevotionalAdapter(devotional, LeadershipDevotionalAdapter.OnClickListener { leadershipDevotionalEntity ->
                 Snackbar.make(findViewById(R.id.activity_main_major_layout), "You clicked me; $leadershipDevotionalEntity", Snackbar.LENGTH_LONG).show()
                 startActivity(Intent(this, DetailedDevotionalActivity::class.java))
+//                devotionSelected(devotional[0]) // testing how alert-Dialog works
             })
             dsRecyclerView.adapter = myAdapter
             myAdapter.notifyDataSetChanged()
         })
+    }
+
+    // add an alert dialog
+    private fun devotionSelected(devotion:LeadershipDevotionalEntity) {
+        AlertDialog.Builder(this)
+                .setTitle(devotion.dayCount)
+                .setMessage(devotion.meditateBody)
+                .setPositiveButton("Delete", {_,_ ->
+
+                })
+                .setNegativeButton("Cancel", {dialog, _-> dialog.cancel()})
+                .create()
+                .show()
     }
 }

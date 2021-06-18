@@ -28,7 +28,17 @@ object LeadershipDevotionalData {
             "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.", "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;",
             "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,", "But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:",
             "Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.", "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.",
-            ""
+            "Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.", "That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.",
+            "This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.", "The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:",
+            "But, when he was in Rome, he sought me out very diligently, and found me.", "The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.",
+            "Thou therefore, my son, be strong in the grace that is in Christ Jesus.", "And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.",
+            "Thou therefore endure hardness, as a good soldier of Jesus Christ.", "No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.",
+            "And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.", "The husbandman that laboureth must be first partaker of the fruits.",
+            "Consider what I say; and the Lord give thee understanding in all things.", "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:",
+            "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.", "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.",
+            "It is a faithful saying: For if we be dead with him, we shall also live with him:", "If we suffer, we shall also reign with him: if we deny him, he also will deny us:",
+            "If we believe not, yet he abideth faithful: he cannot deny himself.", "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.",
+            "Tbc FROM PG.33"
     )
 
 }

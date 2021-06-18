@@ -22,7 +22,7 @@ data class LeadershipDevotionalEntity(
                 data.add(LeadershipDevotionalEntity(1, "Day 1", "1 Timothy 1:1", "For example, I can do all things through Christ who strenghtens me", "Meditate", "Great grace was given to them"))
                 data.add(LeadershipDevotionalEntity(2, "Day 2", "1 Timothy 2:1", "For illustration, arise and shine", "Mediate", "The Lord be praise forever and ever"))
 
-                data.add(LeadershipDevotionalEntity(1, LeadershipDevotionalData.dayCount[0],))
+//                data.add(LeadershipDevotionalEntity(1, LeadershipDevotionalData.dayCount[0],LeadershipDevotionalData.bibleRef[0], ))
 
                 return data
 

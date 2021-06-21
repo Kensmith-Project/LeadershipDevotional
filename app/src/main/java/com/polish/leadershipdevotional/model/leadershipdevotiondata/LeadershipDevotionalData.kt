@@ -38,7 +38,39 @@ object LeadershipDevotionalData {
             "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.", "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.",
             "It is a faithful saying: For if we be dead with him, we shall also live with him:", "If we suffer, we shall also reign with him: if we deny him, he also will deny us:",
             "If we believe not, yet he abideth faithful: he cannot deny himself.", "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.",
-            "Tbc FROM PG.33"
+            "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.", "But shun profane and vain babblings: for they will increase unto more ungodliness.",
+            "And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;", "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.",
+            "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.", "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.",
+            "If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work.", "Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.",
+            "But foolish and unlearned questions avoid, knowing that they do gender strifes.", "And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,",
+            "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;", "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
+    )
+
+    val meditateBody = arrayOf(
+            "This man formally Saul has discovered himself in God through Christ Jesus; we should have the understanding that the mercy of God is always reaching out to every man, for them all to come to repentance (2Pt.3:9, John3:16).\n" +
+                    "Likewise the love of God is opened to you, if you have not received Jesus as your Lord and savior. You need to believe in your heart that Jesus was sent by God to die for you on the cross that you will have this new life in Christ Jesus (Romans10:10). For all sin and came short of the glory of God. Man went into the dark with no sense of peace but now through Jesus Christ, we make peace with God (Rom.5:1).\n" +
+                    "So now after the process above, you are now a new creation as depicted here…\n" +
+                    "2Co 5:17   Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.\n" +
+                    "You are now a new born baby in Christ; you are now a property of God in Christ Jesus. Hence, you have treasures in Christ for your use. As a baby a growth process begins….\n" +
+                    "1Pe 2:2   As newborn babes, desire the sincere milk of the word, that ye may grow thereby: \n" +
+                    "And this process is through the renewal of the mind, just as it was for Paul the Apostle: \n" +
+                    "Rom 12:2  And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.\n" +
+                    "Through this renewal process you will find yourself in God as Paul did.\n",
+            "You remember that Jesus was also declared to be a beloved son of God, likewise Daniel as a beloved. In Ezekiel the scripture speaks of a man that the LORD is looking for (Eze.22:33), someone ready to walk in His terms.  Timothy was such, Noah, Abraham,\n" +
+                    "As one begins to build his relationship with God, such a person will find out how to walk with God. An example is Abraham…. Look at what God said to him..\n" +
+                    "Gen 17:1   And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.\n" +
+                    "So what follows is a supply of the divine nature of God in the life of such a person…. Hence, carefully cultivate your relationship with God. Begin to make discoveries in your walk……\n",
+            "The act of thanksgiving is a way of making one’s self available for the master’s use, for we understand that we are vessels(carrier of purpose) empowered to carryout good works(2Tim2:20-21). Paul acknowledged the heroes of faith like Abraham, Isaac, David, Joseph, Moses who had the same precious faith as his. He was observing how these people got their inheritance from God (Heb.6:12) with sincerity of heart and in love.\n" +
+                    "Paul’s attitude was all for love sake, the love he had received from God was apparently his “driving force”. This led him to a consistently exercise himself to praying night and day.\n" +
+                    "You will come to understand that the love of God in a man will consistently make him thankful (Rom1:20).\n",
+            "One of the reason a family exist is to appreciate the love that God has invested in a family. You see siblings playing together with joy, always anxious to see one another, all for love sake. In the next scripture you will find out what love does…..\n" +
+                    "Pro 27:17  Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.\n" +
+                    "Whenever Paul meets Timothy, they are always filled with joy. Joy is an evidence of a quality relationship. Relationship with God, siblings, leaders in all forms of institutions, wife, husband, junior and senior staff,etc. Lets look at King David’s relation with God….\n" +
+                    "Psa 122:1   I was glad when they said unto me, Let us go into the house of the LORD.\n" +
+                    "There is joy fellowshipping with God Almighty. Likewise joy helps to sharpen the vision you have received and supplies the courage to commit to it until it is fulfilled. This was the scenario between Mary and Elizabeth. In that scene is a perfect description of fellowshipping; Elizabeth confirmed what Mary had received, while to Mary it was an in-filling with joy that broke into thanksgiving (Luke1:39-56).\n" +
+                    "So watch out for joy….\n",
+            "TBC"
+
     )
 
 }

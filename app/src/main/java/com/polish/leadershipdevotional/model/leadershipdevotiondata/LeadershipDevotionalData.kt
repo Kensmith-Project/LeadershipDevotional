@@ -83,7 +83,20 @@ object LeadershipDevotionalData {
             "As a new believer the first testimony you have is “the new creation you are (2Cor5:17)”, you can explain the transformation that happened to you at that encounter with the Lord Jesus Christ. One common symptom of being ashamed is withdrawal from carrying on an activity or an exercise or an action.\n" +
                     "As we shall come to understand that daily acknowledgement of who you are and the declaration (profession, Heb) of the word you have found that spoke about you, you will notice the buildup in your spirit man (Josuah1:8). \n" +
                     "One need be strong not to allow the birds of the air, the cares of life, etc. To steal the word which you have received that gives you confidence (Mark4:1-20). Where there is confidence, there is no room for being ashamed.\n",
-            "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+            "This scripture describe vividly the reason the new creation man exist is because of the purpose and grace of God which is in Christ Jesus. Not by the works of man, neither did man save himself or gave himself a calling rather out of the mercy of God before the world began it was already planned(Jer.29:11, Eph.1:4).\n" +
+                    "Having this knowledge, “before I came to where I am now God has planned something just for me”, will make you seek God genuinely. You know what, God made the heart to seek Him (Eccl.3:11). \n" +
+                    "The promises in Christ Jesus are the step to begin to seek Him (2Cor1:20).     \n",
+            "The Gospel is the power of God unto salvation as recorded by Paul the Apostle (). The gospel has life, it is through the gospel of the Lord Jesus Christ that one can receive the revelation of who he or she is in God, of who God is, of what to do in life,etc.\n" +
+                    "It is clearly seen here that daily exercise in studying the word is essential, likewise meditation on the word.\n" +
+                    "Whatever you are seeking from God, this scripture declares that it is NOW made manifest. This is truth and it is exciting, this is same as what Jesus said, that whatsoever ye desire, when ye pray, believe that ye receive and ye shall have it (Mark11:24).\n" +
+                    "Can you see that, all I would ever need is right with me in the Gospel. All I need do is believing and walking in truth.\n",
+            "You must have it in mind that one day you will come to really discover your definite purpose in life. Paul the Apostle after some time in the word, he caught a revelation of who he is and where to function. What it cost is what you will find Paul did in the following verse (Gal.1:16-18).\n" +
+                    "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:\n" +
+                    "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.\n" +
+                    "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.\n" +
+                    "Likewise in Proverbs18:1 it teaches that by desire one would separate himself and therefore he would abound in wisdom.\n" +
+                    "As you begin to take the word as a mirror, suddenly you will begin to see yourself and have an understanding of what to do (2Cor.3:18).\n",
+            "TBC from Day11",
 
     )
 

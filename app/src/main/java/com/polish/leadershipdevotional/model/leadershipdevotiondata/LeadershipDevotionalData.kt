@@ -96,7 +96,114 @@ object LeadershipDevotionalData {
                     "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.\n" +
                     "Likewise in Proverbs18:1 it teaches that by desire one would separate himself and therefore he would abound in wisdom.\n" +
                     "As you begin to take the word as a mirror, suddenly you will begin to see yourself and have an understanding of what to do (2Cor.3:18).\n",
-            "TBC from Day11",
+            "This man (Paul the Apostle) had a working knowledge of God such that the afflictions, sufferings , lack that he received were not to be compared to the assurance he had in God. That assurance was comforting enough; this is how our relationship with God must be developed.\n" +
+                    "This is a prayer of commitment which a born again child of God must constantly practice, Paul the Apostle gave an illustration on how to practice it(Roman12:1).\n" +
+                    "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.\n" +
+                    "\n" +
+                    "You will observe in that scripture that it was by the reception of mercy before a commitment is made. Paul’s encounter with Jesus Christ on his way to Damascus was an act of mercy to Paul. From then on he began to make his commitment to God. \n" +
+                    "The mercy of God is opened to every man, everyone on the face of the earth (matt.). And that is saying; my son you can trust me, take my hand…… You know what, His mercy makes one to live an everlasting life (Psalm103:17).\n" +
+                    "You can begin to walk in this strong confidence, only trust Him and He is dependable. He will give you what to depend on and the way you should go (Proverbs3:5-6).\n",
+            "Everyone has something he admires all the time probably when a picture comes to mind, a person, a situation. Likewise, Paul the Apostle is admonishing the young Pastor- Timothy. There are sound words which you have received as revelation, keep to this words, let not your eyes depart from them for they will be health to your bones. \n" +
+                    "Let’s see how king Solomon puts it; Proverbs4:20-22.\n" +
+                    "My son, attend to my words; incline thine ear unto my sayings. \n" +
+                    "Let them not depart from thine eyes; keep them in the midst of thine heart. \n" +
+                    "For they are life unto those that find them, and health to all their flesh.\n" +
+                    "There are many reasons these sound words are important:\n" +
+                    "Psa 119:105  . Thy word is a lamp unto my feet, and a light unto my path.\n" +
+                    "Heb 4:12  For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.\n" +
+                    "Pro 30:5  Every word of God is pure: he is a shield unto them that put their trust in him.\n" +
+                    "Psa 19:7  The law of the LORD is perfect, converting the soul: the testimony of the LORD is sure, making wise the simple.\n" +
+                    "Ecc 8:4  Where the word of a king is, there is power: and who may say unto him, What doest thou?\n" +
+                    "Mar 11:23  For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.\n" +
+                    "Luk 21:15  For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.\n" +
+                    "These sound words are useful, begin to find how they fit into your situation, as the scripture said; when you find it, it shall be health to your flesh.\n",
+            "How do I keep that which was committed to me by the Holy Ghost? This is worthy of note, “that which was born of the spirit is sustained by the spirit. For those who have been born again have been born of the spirit, neither of blood, flesh nor of the will of man (John1:12-13). Therefore, you have been committed an eternal life of God. Paul the Apostle instructed that, that was a good thing to be only preserved by the Holy Ghost.\n" +
+                    "You remember Jesus left so that the Holy Spirit who is the comforter would begin to operate. He functions in several ways, He is the Spirit of truth that brings to the knowledge of the Christian every truth to make the Christian live to the fullness of God, He is able to teach, direct, a lot more you know.\n" +
+                    "Check out these scriptures to begin to activate the preservation of that thing committed to you hands. Acknowledging first that you are first of the Spirit and you operate first from the Spirit, then your soul follows the instruction from your Spirit, the body must naturally flow in the way of the Spirit.\n" +
+                    "Why the Holy Spirit must come: John16:7-13\n" +
+                    "  Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you. \n" +
+                    "  And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: \n" +
+                    "  Of sin, because they believe not on me; \n" +
+                    "  Of righteousness, because I go to my Father, and ye see me no more; \n" +
+                    "  Of judgment, because the prince of this world is judged. \n" +
+                    "  I have yet many things to say unto you, but ye cannot bear them now. \n" +
+                    "  Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.\n" +
+                    "He gives guardians:\n" +
+                    "Psa 37:23  The steps of a good man are ordered by the LORD: and he delighteth in his way.\n" +
+                    "He teaches:\n" +
+                    "1Jn 2:27  But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.\n" +
+                    "He reveals:\n" +
+                    "1Co 2:12  Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.\n" +
+                    "Now we can begin to understand how we allow the Holy Spirit to preserve that which is committed to you.\n" +
+                    "Begin to enjoy the ministering of the Holy Ghost.\n",
+            "Even Paul the Apostle faced rejection, when people reject you for your faith, believe, stand. How do you handle it? Paul the Apostle was not bitter about it; he only made known to his close brethren what had happened. \n" +
+                    "Let’s learn a lesson from the family of Jesus at the conception stage of Jesus (Matt1:18-24). Mary the mother of Jesus was about to be rejected by her fiancé (the one she was to be married to), even at that Mary was not worried. What a strong confidence, it only required time for whom she had believed (2Tim.1:12) and committed to , to prove Himself. Her countenance was perfect even at the verge of losing her proposed marriage. \n" +
+                    "Whom she believed visited Joseph to explain the matter and that was how the proposed marriage was saved.\n" +
+                    "Those that reject you or leave you, they are probably not part of fulfilling your destiny. Therefore, if you really have committed to Him whom you believe as Mary did when she proclaimed: it is unto me according to thy word. So when rejection comes, you take it as an opportunity or a room being created for the true destiny partners to come to you.\n" +
+                    "You a special person with a bright future, so as a magnet attract to itself, so likewise you have been wired to attract your destiny partners. \n",
+            "This is an act of hospitality by Onesiphorus to Paul the Apostle, Paul asked God to bless him (Onesiphorus) with His mercy. An example of mercy is as the one Abraham found such that God said to Him; you are my friend. This friendship made him to have a place in heaven and a man of power, wealth on the earth at that time.\n" +
+                    "So you see, it is a privilege to offer hospitality to people, likewise men of God or servants of the Living God because God has placed a blessing of mercy for such an act.\n" +
+                    "In Genesis18:1-10, this account is very explanatory on how to receive by faith the mercy of God in any area of one’s life. At the beginning of the account it says; “And the LORD appeared unto him (Abraham)… Every man can sense when God is touching him or her (Luke2:14), that is the time anyone must listen for the wisdom needed from God to act (Psalm46:10). Abraham got the signal and he observed diligently until he got information on what he must do. As he did that, such act can be described as humility to God. Hence, he was exalted with a child; his most earnest expectation was fulfilled (Proverbs22:4).\n" +
+                    "The mercy of God is available to you, begin to walk in it.\n",
+            "This is what love will make one do, to go any length to put smile on the face of someone. As typical of the John3:16 account:\n" +
+                    "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.\n" +
+                    "Love is strong, focus and he got specific objectives. Love is the true nature of God, for God is love. The true manifestation of love begins when we have received the love of God in our lives first (Romans5:8).\n" +
+                    "No matter the distance, love can go any length to bring out that gift buried inside your soul. This love virtue makes the world a better place for all.\n" +
+                    "Begin today to work out the love inside you.\n",
+            "Paul the Apostle was so satisfied that he could not but pronounce a blessing as Isaac did to Jacob, Melchizedek to Abraham. You can provoke a blessing to your life by honouring your Parents, Pastors, Elders, etc (Ephesians6:1-3)). \n" +
+                    "1Pe 5:5  Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.\n" +
+                    "What God gives is GRACE, an ability to perform, walk in His will as Noah towards the building of the ark, as Abraham towards how he kept the covenant, as Jesus Christ towards laying His life for the sin of the world.\n" +
+                    "God loves everyone such that He has made everything around us a blessing. Always remember, you are a blessing; you are packaged to put satisfaction in the heart of someone. \n" +
+                    "Take a step today to begin to release those virtue in you. \n",
+            "Paul the Apostle was admonishing Timothy to hence forth take the full advantage of the abilities in Christ Jesus. He meant, do not stop where you are now rather always press on (2Cor.1:20).\n" +
+                    "Php 3:14  I press toward the mark for the prize of the high calling of God in Christ Jesus.\n" +
+                    "For there is more to release into this life through you; remember Jesus said, “I am come that ye might have life and have it more abundantly (John10:10b).\n" +
+                    "One need to begin to set new goals as one begin to sense it through prayers or communion with God.\n" +
+                    "Catch a goal today and press towards it.  \n",
+            "There is always a room to do better and hence expand the reach on your products, services or ministry. Therefore, as a leader, you got the task to select people to work with you such that the purpose of the product, services and ministry is fulfilled.\n" +
+                    "Such a leader is identified as one who was once a follower, one who has learnt how to lead. One character of a potential leader is one who has been consistent on little or big things he does for himself or others. And of course, he enjoys doing it; it comes out with remarkable results. The teenage boy David is a typical example, likewise, Joseph as a teenager.\n" +
+                    "Paul the Apostle admonish Timothy to begin to take steps towards expansion of his ministry; so he said; watch out for people who can also administer this gospel to others. Just as a Doctor would administer treatment to his patients. You see communication is key, as Jesus Christ did perfectly. His parables were exceptional, very illustrative and simple to understand. \n" +
+                    "As leaders we must learn the right words to communicate the message well, this book of proverb is very instructive on how to achieve perfect communication (Proverbs25:11). \n" +
+                    "Pro 25:11   A word fitly spoken is like apples of gold in pictures of silver.\n" +
+                    "Always remember, you are a leader and you are up to the task.\n",
+            "This is an eye-opener as to how I must operate as a Christian with the consciousness that there is war going on, not against flesh and blood but against principalities and powers in high places (Eph6:12). Also, it brings to mind as a soldier is equipped with weapons, likewise as a Christian as found below:\n" +
+                    "2Co 10:4   (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) \n" +
+                    "2Co 10:5   Casting down imaginations, and every high thing that exalted itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;  \n" +
+                    "As you know a soldier must be protected, he got helmet, bullet proof, footwear and all sort. So, as a Christian you walk at putting on your protective shield which have been made available for everyone in Christ, see below:\n" +
+                    "Eph 6:11   Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. \n" +
+                    "Eph 6:12   For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. \n" +
+                    "Eph 6:13  Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. \n" +
+                    "Eph 6:14   Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; \n" +
+                    "Eph 6:15   And your feet shod with the preparation of the gospel of peace; \n" +
+                    "Eph 6:16   Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. \n" +
+                    "Eph 6:17   And take the helmet of salvation, and the sword of the Spirit, which is the word of God:\n" +
+                    "As a Christian, working out one’s salvation (Philippians2:12) is a way of building up and putting on the whole armour. Remember, you are a soldier with every weapon for you to learn how to use.\n",
+            "To please Him, we understand it is by faith (Heb.11:6) and faith is demanding. Very typical example is Joseph, when Potiphar’s wife requested that Joseph should lay with her (Gen.39:7). Joseph’s response was the expression of his faith in God. This was what Joseph said:\n" +
+                    "Gen 39:9   There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?\n" +
+                    "Indeed Joseph proved to be a true soldier with ability to identify distractions that would take him off the course. He knew he was chosen of God, with that knowledge he knew that laying with his master’s wife will not please God. Am sure because he knew the law of God that said:\n" +
+                    "Gen 2:24   Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.\n" +
+                    "Joseph knew why his master did not release his wife to him to take charge of as he did with other properties; because by the law a wife was never met to be shared. A man cleaves to his wife to become one, a union of what God has joined together, so let no man put asunder.\n" +
+                    "One weapon of the Soldier is the sword of the Spirit (Eph.6:17b), which is the word of God. The word of God is powerful, sharper than two edge sword (Heb.4:12), as a medicine, it is very effective for every situation.\n" +
+                    "Begin today to search for the word for that situation: you know what, it’s there.\n",
+            "Hello everyone, the scripture is every interesting. It says to be crowned as a King or expert in a or any field in life, there is a way to go about it. There is a way about building a prosperous family, about building a prosperous career, about building a successful business, about building a kind of ministry, about a prosperous leadership, etc.\n" +
+                    "The knowledge here is that, anyone who desires to be the best and have the best can, when he or she understands how. Let’s here what the famous King (Solomon ) instructed:\n" +
+                    "Pro 4:5   Get wisdom, get understanding: forget it not; neither decline from the words of my mouth. \n" +
+                    "Pro 4:6   Forsake her not, and she shall preserve thee: love her, and she shall keep thee. \n" +
+                    "Pro 4:7   Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding. \n" +
+                    "Pro 4:8   Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her. \n" +
+                    "Pro 4:9   She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.\n" +
+                    "Always remember, that the knowledge to the “HOW TO” is close by (Psalm46:1b).\n",
+            "God Almighty is very interested in the fruits from His vineyard; the scene is clearly illustrated in John 15:1-2.\n" +
+                    "Joh 15:1   I am the true vine, and my Father is the husbandman. \n" +
+                    "Joh 15:2   Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.\n" +
+                    "Obviously, He is the owner of the vineyard, growth is very essential to Him. Therefore, let everyone begin to cultivate his vineyard as a husbandman would do for we understand in the book of Proverbs that:\n" +
+                    "Pro 28:19   He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.\n" +
+                    "So one must begin to identify her or his vineyard and start cultivating it. \n" +
+                    "Gen 9:20   And Noah began to be an husbandman, and he planted a vineyard:\n" +
+                    "Pro 31:16   She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.\n" +
+                    "1Co 9:7   Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?\n" +
+                    "Vineyard could be in various forms: a family, a career, a business, etc. One can begin to cultivate from where he or she is\n",
+            "TBC from DAY 25",
 
     )
 

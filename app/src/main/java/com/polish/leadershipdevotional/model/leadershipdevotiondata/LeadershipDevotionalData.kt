@@ -203,7 +203,190 @@ object LeadershipDevotionalData {
                     "Pro 31:16   She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.\n" +
                     "1Co 9:7   Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?\n" +
                     "Vineyard could be in various forms: a family, a career, a business, etc. One can begin to cultivate from where he or she is\n",
-            "TBC from DAY 25",
+            "Words spoken are like seeds in the process of planting into the soil, in the parable of the sower (Mark4:20) the good ground signifies the heart. You can understand how fearful Joshua was when he was to take the place of Moses, in his mind words like, can I really lead these hardened people that made Moses to strike the rock instead to speak to it?\n" +
+                    "God needed to make his heart right, so He said; only be thou strong and courageous (Joshua1:7). In other words, God was moving fear away from his heart in order for faith to be established. So He said in Joshua1:8,\n" +
+                    "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.\n" +
+                    "Consider my law, God said to Joshua. Look at it until you can see, listen to it until you can understand; when you have seen it, understood it begin to walk in it. The eyes and ears were given to see with the heart, to understand with the heart. Lets see Matthew13:15.\n" +
+                    "Mat 13:15   For this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.\n" +
+                    "To consider is synonymous to the renewing of the mind:\n" +
+                    "Rom 12:2  And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.\n" +
+                    "After the renewal, then is the understanding and works as proofs of the spoken word.\n",
+            "Paul the Apostle personalized the gospel he had received; he actually had a spectacular encounter with Jesus Christ on his way to Damascus (Acts22:6-21). Everyone as Paul has a gospel he or she received from Jesus Christ; it could be described this way like Jeremiah: \n" +
+                    "Jer 20:9   Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.\n" +
+                    "There is always a tendency to express that which you have received from Jesus Christ. If peradventure you have not clearly seen your own, the scripture helped us to understand that in Christ are the hidden treasures of wisdom and knowledge (Col.2:2-3). It was kept there for you; with the kind of prayer Paul prayed for the Ephesian church you can assess it (Eph.1:16-20).\n" +
+                    "God has defined everyone especially with His own gospel, find it if not yet know, walk in it if found. Father Abraham had a testimony of his own gospel:\n" +
+                    "Gen 18:19  For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.\n",
+            "What a freedom the knowledge of this word brings to my heart, that the word of God is not bound. Truly as Jesus Christ said:\n" +
+                    "Joh 8:32   And ye shall know the truth, and the truth shall make you free.\n" +
+                    "The scripture teaches that the word of God is true for all circumstances.\n" +
+                    "Rom 3:4   God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.\n" +
+                    "Let’s see this scripture in the light of circumstances. Let the Word of God be true in my circumstances and the present circumstance a liar. For example, someone has sickness in his or her body, the present circumstance is sickness and this could be a form of bound. When the Word of God for this circumstance is spoken it becomes true; you would remember the Word (1Peter2:24e) that by the stripes of Jesus I am healed then as a drug being administered, such a one becomes free from that sickness.\n" +
+                    "Paul also brought to our remembrance of the liberty the Spirit of God carries wherever He is present.\n" +
+                    "2Co 3:17   Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty. \n" +
+                    "Joh 6:63   It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.\n" +
+                    "These two scriptures tell us that the Word is Spirit and life with the power to set at liberty. You can begin to experience the liberty the Word of God gives as from today, only fill yourself with the Word (Josua1:8).\n",
+            "The life of everyone on the face of the earth has significance (Ecc.3:11a) to himself, to those around him and to the generations to come. You truly do not have live for yourself alone that is why God created the concept of a family. There is the family instituted by marriage, also a family established by the blood of the lamb (Jesus Christ) into the family of God in Christ Jesus (2Cor.5:17).\n" +
+                    "1Co 6:20   For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.\n" +
+                    "Nothing on earth worth the value of a soul which is clearly stated in the scripture below.\n" +
+                    "Mar 8:36   For what shall it profit a man, if he shall gain the whole world, and lose his own soul?\n" +
+                    "Therefore for those born of God, submission to the will of God is not optional. A life and prayer of dedication is required as taught by the scripture below.\n" +
+                    "Rom 12:1  I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service. \n" +
+                    "Rom 12:2  And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.\n" +
+                    "Always remember that you are the light of the world (Matt5:14), you got the light inside you. Begin to walk in that light.\n" +
+                    "Psa 119:130   The entrance of thy words giveth light; it giveth understanding unto the simple.  \n",
+            "This confirms that the word is true, quick and powerful, able to deliver what it promises. This involves seeking the Lord which might be stimulated by desire (Prov18:1), a visitation of God, etc. Paul the Apostle taught that in seeking the Lord, it demands that on believes that He is (Heb.11:6). By believing, it takes one away from his formal state (this state is when no knowledge of God concerning a matter or issue) to a state of persuasion (this state one knows what he receives is true). Mary is an example:\n" +
+                    "Luk 1:45   And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord. \n" +
+                    "True believing takes place in the heart, Paul also taught about it.\n" +
+                    "Rom 10:9   That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. \n" +
+                    "Rom 10:10   For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.  \n" +
+                    "When the heart gets hold of the Word, there is a transformation that takes place.\n",
+            "The word suffer can be described as what Paul the Apostle calls ‘light affliction’.\n" +
+                    "2Co 4:17   For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;\n" +
+                    "Remember in Babylon, how the Shedrach, Meshach and Abednego were threaten to be burnt if they did not bow to King’s idol (Dan.3: 12-18). It may look like suffer; in the scripture above it teaches that it works out the manifestation of the power of God in the life of such as in Shedrach, Meshach and Abednego. The power of God that was revealed is found Dan.3:27-30.\n" +
+                    "Dan 3:27  And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them. \n" +
+                    "Dan 3:28  Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abednego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God. \n" +
+                    "Dan 3:29  Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort. \n" +
+                    "Dan 3:30    the king promoted Shadrach, Meshach, and Abednego, in the province of Babylon. \n" +
+                    "\n" +
+                    "The boldness the three Jews in Babylon had was is what the scripture below describe. \n" +
+                    "\n" +
+                    "Pro 30:5   Every word of God is pure: he is a shield unto them that put their trust in him.\n" +
+                    "\n" +
+                    "God did not deny them; He made them to reign in the Babylonia kingdom. Likewise was Daniel in the Lion’s den.\n" +
+                    "Get hold of the shield by putting the word inside your heart.\n" +
+                    "\n" +
+                    "Psa 3:3   But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.\n",
+            "The word suffer can be described as what Paul the Apostle calls ‘light affliction’.\n" +
+                    "2Co 4:17   For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;\n" +
+                    "Remember in Babylon, how the Shedrach, Meshach and Abednego were threaten to be burnt if they did not bow to King’s idol (Dan.3: 12-18). It may look like suffer; in the scripture above it teaches that it works out the manifestation of the power of God in the life of such as in Shedrach, Meshach and Abednego. The power of God that was revealed is found Dan.3:27-30.\n" +
+                    "Dan 3:27  And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them. \n" +
+                    "Dan 3:28  Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abednego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God. \n" +
+                    "Dan 3:29  Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort. \n" +
+                    "Dan 3:30    the king promoted Shadrach, Meshach, and Abednego, in the province of Babylon. \n" +
+                    "\n" +
+                    "The boldness the three Jews in Babylon had was is what the scripture below describe. \n" +
+                    "\n" +
+                    "Pro 30:5   Every word of God is pure: he is a shield unto them that put their trust in him.\n" +
+                    "\n" +
+                    "God did not deny them; He made them to reign in the Babylonia kingdom. Likewise was Daniel in the Lion’s den.\n" +
+                    "Get hold of the shield by putting the word inside your heart.\n" +
+                    "\n" +
+                    "Psa 3:3   But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.\n",
+            "Paul the Apostle was admonishing Timothy to always remind those he teaches that to argue issues, national debate will profit nothing, and rather it destroys the faith of people. For one need be spiritually minded; \n" +
+                    "Rom 8:6   For to be carnally minded is death; but to be spiritually minded is life and peace.\n" +
+                    "Being spiritually minded means walking with an understanding that before there was anything, the WORD was. He Therefore the WORD must take first priority because the WORD is able to produce things, it is profitable, it gives direction, etc.\n" +
+                    "Heb 11:3   Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.\n" +
+                    "One evidence of the power of the WORD is the liberation it gives, for where the Spirit of the Lord is there is liberty.\n" +
+                    "Joh 6:63   It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.\n" +
+                    "2Co 3:17   Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.\n" +
+                    "As brethren, a family, using the WORD as a standard to weigh every matter will always make the faith bank to build up. This is truly profitable. \n",
+            "Being approved unto God is a personal relationship that one has with God. In such a relationship God demands that one has to study to show himself or herself approved, not to men rather only to God. Because God created the standard for that relationship you have with Him; one standard God created for Adam in their relationship was the command not to eat of the tree of the knowledge of good and evil (Gen.2:16-17).\n" +
+                    "Likewise God and Abraham relationship was defined as expressed in the scripture below.\n" +
+                    "Gen 17:1   And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.\n" +
+                    "Jesus likewise underwent the same process upon which his approval was announced as shown in the scripture below.\n" +
+                    "Mat 3:17   And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.\n" +
+                    "There are two basic features of a relationship:\n" +
+                    "i.\tEstablishment of a covenant.\n" +
+                    "ii.\tPromises for beautification of the relationship.\n" +
+                    "The New Testament was established by the blood of Jesus Christ on the cross of Calvary (Heb.9:22), with lots of promises for the new creation life (2Cor.1:20). So the relationship (the personal relationship with God) is established with the knowledge of what God did on the cross of Calvary through His son Jesus Christ.\n" +
+                    "Rom 10:9   That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. \n" +
+                    "Rom 10:10   For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.\n" +
+                    "Everyone who has this new creation life (2Cor.5:17) understands that He or She is complete in Christ (Col.2:10). Such has all he or she needs to be fulfilled in life and enjoy life (2Pt.1:3). Therefore, the process of building this relationship is what Paul the Apostle refers to as “working out your own salvation” (Phil.2:12). In this relationship communication develops just as a Father would relate to his son, the Holy Spirit becomes very instrumental day by day as a comforter (John14:26). This were one will receive instructions expressly from God Almighty Himself on how to make herself or himself approved unto God.\n" +
+                    "The scripture went ahead to say, whoever practices the above illustration will have no need to be ashamed rather as typified by the three Hebrews (Dan.3:16-17) in Babylon, promotion became their new status. It was also evident that they were able to divide the truth they had received rightly. \n" +
+                    "Begin today to delight yourself in the presence of the Father, for He has pleasure in the prosperity of His people (psalm35:27).\n",
+            "Paul the Apostle was very explicit here, strong words indeed, describing to everyone how valuable godly living is to God and man. Because one who has received the righteousness of God will take a conscious step to walk in the love of God even when the situation might not look favourable. For example, since the law is fulfilled in love (Rom.13:10), therefore godliness (which is having the nature of God) will not steal, will not kill, will not commit adultery, will not bear false witness against his or her neighbor, etc (Deut.5:7-21). Ungodliness on the other side will bring chaos to any society; the act of ungodliness by Adam brought a curse to the ground (Gen.3:17-19) and displaced him from his loving home (Eden, Gen.3:23-24). Likewise the people Israel did not get to promise land by their grumbling which was an act of ungodliness ().\n" +
+                    "Now Paul the Apostle instructs, watch out for profane and vain babblings, they will make one to walk in ungodliness as exemplified above. The meaning of the following words will help to understand the step to take:\n" +
+                    "•\tShun:  to avoid deliberately.\n" +
+                    "•\tProfane: to treat with irrelevance\n" +
+                    "•\tVain: useless or producing no result\n" +
+                    "•\tBabbling: to utter meaningless or unintelligible sound \n" +
+                    "Learning to divide the word of truth is a useful skill to develop; since all things originate from the WORD then all things can be explained by the WORD. Therefore, watch all things through the eyes of the WORD.\n",
+            "The dictionary describes canker as a source of spreading corruption or decay. This does not describe what the word of God does in a man’s life; the word builds (Acts20:32).\n" +
+                    "Maybe anyone finds himself or herself in a situation where he or she is surrounded by such people as King David for some time. This is how David describes these people:\n" +
+                    "Psa 57:4   My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.\n" +
+                    "We can learn how King David overcame; by offering praises he said, in that manner his heart became fixed and steadfast.\n" +
+                    "Psa 57:5   Be thou exalted, O God, above the heavens; let thy glory be above all the earth. \n" +
+                    "Psa 57:6   They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah. \n" +
+                    "Psa 57:7   My heart is fixed, O God, my heart is fixed: I will sing and give praise.\n" +
+                    "Be watchful of those who become your friends, do they challenge you or belittle you. \n",
+            "One thing everyone born of God must guide with all diligence is his or her faith in Christ Jesus. Apostle Peter calls it precious faith; the human body system cannot do without oxygen less it becomes inactive likewise this precious faith in the life of the believer. It needs to be nurtured, for the just lives by his faith.\n" +
+                    "2Pe 1:1   Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:\n" +
+                    "Heb 10:38   Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.\n" +
+                    "One way to guide against loosing your faith is constant fellowship with Christ Jesus who is the originator of this precious faith received by the believer.\n" +
+                    "Heb 12:2   Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.\n" +
+                    "By looking to the word to see that one would perceive, to hear that one would understand. This is fellowship, it brings healing, deliverance, restoration.\n" +
+                    "Mat 13:15   For this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.\n" +
+                    "Begin to enjoy yourself in fellowshipping with the Father.\n",
+            "Paul the Apostle was instructing, do not build your trust on what the crowd says. You must know whom you believe through Christ Jesus because the Almighty Father is a sure foundation forever and ever. \n" +
+                    "Pro 22:19   That thy trust may be in the LORD, I have made known to thee this day, even to thee. \n" +
+                    "Pro 22:20   Have not I written to thee excellent things in counsels and knowledge, \n" +
+                    "Pro 22:21   That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?\n" +
+                    "Heb 13:8   Jesus Christ the same yesterday, and to day, and for ever. \n" +
+                    "Heb 13:9   Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.\n" +
+                    "Anyone born of God is dead to sin; the nature of God is free from sin. The new man in Christ will not be comfortable when he or she engages in an unloving way such as to steal, to kill, to bear false witness, to hate, to despise, etc (Gal.5:19-21), because the Spirit of truth does not led anyone to do the works of the flesh rather the Spirit of truth will help one to produce the fruits of the Spirit (Gal.5:22-23). \n" +
+                    "Rom 6:1   what shall we say then? Shall we continue in sin, that grace may abound? \n" +
+                    "Rom 6:2   God forbid. How shall we, that are dead to sin, live any longer therein?\n" +
+                    "So Paul admonish that everyone born of God must understand he or she has no part with sin any more. Rather choose to walk in the path of righteousness.\n" +
+                    "Pro 14:34   Righteousness exalteth a nation: but sin is a reproach to any people.\n",
+            "In any house there are treasures stored in vessels, like you know vessels are containers having content. Jesus instructed that the water pots be filled (John2:7), likewise the lifeless body of Adam was filled with the breath of God which made him a living soul (Gen.2:7). A typical illustration of a house is Eden; in that house Adam and Eve were instrumental vessels that determine the future of that home. So, a man or a woman is a vessel with a capacity to be filled for use.\n" +
+                    "Every possessor of the vessel got a responsibility to make that vessel available for use- the right use of course. Unfortunately Adam and Eve allowed sin into the world which was a dishonor to their Creator, themselves and their offspring (Rom.5:14).\n" +
+                    "It is only the manufacturer that can best describe the use or purpose of his machine or creation. Therefore, as the manufacturer’s manual (the bible) is studied then purpose will be discovered (2Cor.3:18).\n",
+            "This scripture teaches that every possessor of his or her vessel has a responsibility to prepare it for use; Paul the Apostle teaches that only with knowledge will one understand how to prepare his or her vessel.\n" +
+                    "1Co 3:16   Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?\n" +
+                    "You remember that it is the Spirit of Truth that dwells in the lives of all born of God; He brings to the knowledge of the believer the ways of truth which He receives from the Father.\n" +
+                    "Joh 16:13   Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.\n" +
+                    "Everyone born of God has received a measure of God’s gift and Paul the Apostle instructs us to keep it by the Holy Spirit (2TIM.1:14). If it happens that one falls to sin, King David is a good example of how to purge one’s self from sin. \n" +
+                    "Psa 51:1  To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba. Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. \n" +
+                    "Psa 51:2   Wash me throughly from mine iniquity, and cleanse me from my sin. \n" +
+                    "Psa 51:3   For I acknowledge my transgressions: and my sin is ever before me. \n" +
+                    "Psa 51:4   Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest. \n" +
+                    "Psa 51:5   Behold, I was shapen in iniquity; and in sin did my mother conceive me. \n" +
+                    "Psa 51:6   Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom. \n" +
+                    "Psa 51:7   Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow. \n" +
+                    "Psa 51:8   Make me to hear joy and gladness; that the bones which thou hast broken may rejoice. \n" +
+                    "Psa 51:9   Hide thy face from my sins, and blot out all mine iniquities. \n" +
+                    "Psa 51:10   Create in me a clean heart, O God; and renew a right spirit within me. \n" +
+                    "Psa 51:11   Cast me not away from thy presence; and take not thy holy spirit from me. \n" +
+                    "Psa 51:12   Restore unto me the joy of thy salvation; and uphold me with thy free spirit. \n" +
+                    "Psa 51:13   Then will I teach transgressors thy ways; and sinners shall be converted unto thee. \n" +
+                    "Psa 51:14   Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness. \n" +
+                    "Psa 51:15   O Lord, open thou my lips; and my mouth shall shew forth thy praise.\n" +
+                    "\n" +
+                    "As he or she walk in the light, he would begin to discover things he or she needs to confess that he or she never knew before. Because the light of God’s word exposes the heart of man when received (1John 1:6-10). As one born of God, he or she learns to confess every sin revealed to him or her by the Holy Spirit.\n" +
+                    "Pro 28:13   He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.\n" +
+                    "Jesus has taught us that we are being cleansed by the word of truth (John15:3); let’s begin to walk in the light of God.\n",
+            "Paul the Apostle teaches here that as a young man, young lady when building a godly relationship, it must be with vigilance. Youthful lusts like the lust of the flesh, lust of the eyes, the pride of life (1John2:16), will not last as understood by the Paul’s teaching (1John2:17). Rather to build a lasting relationship, you must choose the following as your values to sustain such a relationship:\n" +
+                    "•\tThe righteousness of God (Matt.6:33): everyone born of God has been made righteous (2Cor.5:21) in Christ Jesus, by the help of the Holy Spirit He teaches us how to walk in the righteousness of God. An example of walking in righteousness is Abraham, his act of believing God was recorded as righteousness to his credit (Rom.4:3). Abraham’s relationship with God became stronger as well with his family and neighbours (Prov.16:7).                        \n" +
+                    "Rom 4:3   For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.\n" +
+                    "•\tThe God Kind of Faith (Mark 11:24): this is the trust built in the ability of God to perform what anyone has received of Him (Luke1:45). Anyone that trusts God will receive instruction on how to act or exercise his or her faith in God. It was faith that made Noah to construct that ark; likewise as we fellowship with the father we begin to discover what to do. This also will define who we relate with.\n" +
+                    "•\tThe God-Kind of Love (1Cor.13:1-13): the Almighty gave His only beloved son to be crucified that He might receive all who believed in Him (John3:16, John1:12). The Love of God is productive in the life of any one that carry’s His love.\n" +
+                    "•\tThe Peace of God (Philp 4:7): that everyone walk with peace in ourselves and with all men will make such a person of the likeness of God. One way to walk in it is illustrated in scripture below:\n" +
+                    "Isa 26:3   Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.\n" +
+                    "Let’s begin to build these values in the relationships we are involved.\n",
+            "Paul the Apostle admonishes everyone that as a leader avoid whatever will cause strife or contention in your relation with people. As a member of the family of God through the blood of Jesus Christ which is the new covenant or testament; it is expected that everyone builds one another to attain the stature of the fullness of Christ. The process is activated as illustrated in this proverb:\n" +
+                    "Pro 27:17   Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.\n" +
+                    "Definitely, it is a daily investment because it is actually the product of being a living sacrifice to God (Rom.12:1). The next scripture below tells us the purpose:\n" +
+                    "Eph 4:13   Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:\n" +
+                    "You can now understand what a foolish and unlearned questions would be, if it does not builds you up or if it tends to draw you away from the love of God. So, as one born of God grows or attain heights in Christ; naturally his or her light will sharpen his or her fellows (1Tim.4:15).\n",
+            "Again as a leader Paul the Apostle admonish that the option to strive must not be adopted, rather to adopt the attitude of a porter who when he sees a fracture in his products or mould he would study it so he understands then he administer a prescription. As you know, time will be given to observe the healing. This perspective can be helpful to leaders, being gentle can be akin to understanding the fracture in a man or woman as a Doctor prepares to diagnose the ailment rather than finding the side to take, being apt to teach is akin to having the drugs to administer, after which you can trust the Holy Spirit to begin the healing process.\n" +
+                    "This illustration is an expression of the nature of God, the love nature of God.\n",
+            "Leaders are expected to bring order in any society, likewise to see everyone with the love of God which is able to transform the hearts of men. A typical example is how Jesus handle the-yet-to-be-prosecuted-woman; the accused adulterous woman.\n" +
+                    "Joh 8:4   They say unto him, Master, this woman was taken in adultery, in the very act. \n" +
+                    "Joh 8:5   Now Moses in the law commanded us, that such should be stoned: but what sayest thou? \n" +
+                    "Joh 8:6   This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not. \n" +
+                    "Joh 8:7   So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her. \n" +
+                    "Joh 8:8   And again he stooped down, and wrote on the ground. \n" +
+                    "Joh 8:9  And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst. \n" +
+                    "Joh 8:10   When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee? \n" +
+                    "Joh 8:11   She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.\n" +
+                    "Jesus taught here that with the God-kind of love there is no need to oppose one another; rather the God-kind of love that works in the individual is able to bring lives or hearts to repentance.\n",
+            "As leaders we must realize that God poured in us His nature (God-kind of love) to be reflected on the face of the earth so that men who see it will come to repentance. Thereby, delivering souls held captive (with sin) in the kingdom of the Devil.\n" +
+                    "Remember that for His love-sake, He sent His only begotten son Jesus Christ, such that on believing they likewise will possess the-life-of God (eternal life).\n" +
+                    "Joh 3:16   For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.\n" +
+                    "The Spirit of God in everyone born of God is able to teach how to walk in love.\n" +
+                    "1Th 4:9   But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.\n" +
+                    "Begin to activate the God-kind of love life today.\n"
+
 
     )
 

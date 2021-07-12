@@ -46,6 +46,8 @@ object LeadershipDevotionalData {
             "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;", "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
     )
 
+    val meditateTitle = arrayOf("Meditate")
+
     val meditateBody = arrayOf(
             "This man formally Saul has discovered himself in God through Christ Jesus; we should have the understanding that the mercy of God is always reaching out to every man, for them all to come to repentance (2Pt.3:9, John3:16).\n" +
                     "Likewise the love of God is opened to you, if you have not received Jesus as your Lord and savior. You need to believe in your heart that Jesus was sent by God to die for you on the cross that you will have this new life in Christ Jesus (Romans10:10). For all sin and came short of the glory of God. Man went into the dark with no sense of peace but now through Jesus Christ, we make peace with God (Rom.5:1).\n" +

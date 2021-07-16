@@ -63,7 +63,7 @@ data class LeadershipDevotionalEntity(
                 data.add(LeadershipDevotionalEntity(42, LeadershipDevotionalData.dayCount[41], LeadershipDevotionalData.bibleRef[41], LeadershipDevotionalData.bibleRefText[41], LeadershipDevotionalData.meditateTitle[0], LeadershipDevotionalData.meditateBody[41]))
                 data.add(LeadershipDevotionalEntity(43, LeadershipDevotionalData.dayCount[42], LeadershipDevotionalData.bibleRef[42], LeadershipDevotionalData.bibleRefText[42], LeadershipDevotionalData.meditateTitle[0], LeadershipDevotionalData.meditateBody[42]))
                 data.add(LeadershipDevotionalEntity(44, LeadershipDevotionalData.dayCount[43], LeadershipDevotionalData.bibleRef[43], LeadershipDevotionalData.bibleRefText[43], LeadershipDevotionalData.meditateTitle[0], LeadershipDevotionalData.meditateBody[43]))
-                data.add(LeadershipDevotionalEntity(45, LeadershipDevotionalData.dayCount[44], LeadershipDevotionalData.bibleRef[44], LeadershipDevotionalData.bibleRefText[44], LeadershipDevotionalData.meditateTitle[0], LeadershipDevotionalData.meditateBody[44]))
+
 
 
 

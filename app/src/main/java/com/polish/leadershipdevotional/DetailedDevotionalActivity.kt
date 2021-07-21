@@ -39,11 +39,11 @@ class DetailedDevotionalActivity : AppCompatActivity() {
         val receiveIntent = intent
         val selectedDevotion = receiveIntent.getParcelableExtra<LeadershipDevotionalEntity>(SELECTED_DEVOTION)
         // set the data the the view
-        selectedDevotion?.dayCount
-        selectedDevotion?.bibleRef
-        selectedDevotion?.bibleRefText
-        selectedDevotion?.meditateTitle
-        selectedDevotion?.meditateBody
+        displayDayCount.text = selectedDevotion?.dayCount.toString()
+        displayBibleRef.text = selectedDevotion?.bibleRef.toString()
+        displayBibleRefText.text = selectedDevotion?.bibleRefText.toString()
+        displayMeditateTitle.text = selectedDevotion?.meditateTitle.toString()
+        displayMeditateBody.text = selectedDevotion?.meditateBody.toString()
 
     }
 

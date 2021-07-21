@@ -62,8 +62,13 @@ class MainActivity : AppCompatActivity() {
         leadershipDevotionalViewModel.allLeadershipDevotional.observe(this, Observer { devotional ->
             Log.d(TAG, "here are the content in the devotion: $devotional")
             myAdapter = LeadershipDevotionalAdapter(devotional, LeadershipDevotionalAdapter.OnClickListener { leadershipDevotionalEntity ->
-                Snackbar.make(findViewById(R.id.activity_main_major_layout), "You clicked me; $leadershipDevotionalEntity", Snackbar.LENGTH_LONG).show()
-                startActivity(Intent(this, DetailedDevotionalActivity::class.java))
+                // snackbar not in proper use
+//                Snackbar.make(findViewById(R.id.activity_main_major_layout), "You clicked me; $leadershipDevotionalEntity", Snackbar.LENGTH_LONG).show()
+                // create an intent instance and pass the selected data to the intent
+                val intent = Intent(this, DetailedDevotionalActivity::class.java)
+                intent.putExtra(SELECTED_DEVOTION, leadershipDevotionalEntity)
+                startActivity(intent)
+//                startActivity(Intent(this, DetailedDevotionalActivity::class.java))
 //                devotionSelected(devotional[0]) // testing how alert-Dialog works
             })
             dsRecyclerView.adapter = myAdapter
@@ -71,16 +76,7 @@ class MainActivity : AppCompatActivity() {
         })
     }
 
-    // add an alert dialog
-    private fun devotionSelected(devotion:LeadershipDevotionalEntity) {
-        AlertDialog.Builder(this)
-                .setTitle(devotion.dayCount)
-                .setMessage(devotion.meditateBody)
-                .setPositiveButton("Delete", {_,_ ->
-
-                })
-                .setNegativeButton("Cancel", {dialog, _-> dialog.cancel()})
-                .create()
-                .show()
+    companion object {
+        const val SELECTED_DEVOTION = "content"
     }
 }

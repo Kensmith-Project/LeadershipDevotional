@@ -1,9 +1,13 @@
 package com.polish.leadershipdevotional.model
 
+import android.os.Parcelable
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import androidx.versionedparcelable.VersionedParcelize
 import com.polish.leadershipdevotional.model.leadershipdevotiondata.LeadershipDevotionalData
+import kotlinx.parcelize.Parcelize
 
+@Parcelize
 @Entity(tableName = "devotion_table")
 data class LeadershipDevotionalEntity(
 
@@ -13,7 +17,7 @@ data class LeadershipDevotionalEntity(
     val bibleRefText:String,
     val meditateTitle:String,
     val meditateBody:String
-) {
+):Parcelable {
     // pregenerated data
     companion object {
         val leaderDevotionalData:ArrayList<LeadershipDevotionalEntity>

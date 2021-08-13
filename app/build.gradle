@@ -90,6 +90,8 @@ dependencies {
     androidTestImplementation "androidx.arch.core:core-testing:2.1.0"
     androidTestImplementation 'junit:junit:4.+'
     androidTestImplementation "com.google.truth:truth:1.1.2"
+    androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-intents:3.3.0'
 
 
 

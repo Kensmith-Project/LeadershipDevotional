@@ -68,8 +68,9 @@ class MainActivity : AppCompatActivity() {
                 val intent = Intent(this, DetailedDevotionalActivity::class.java)
                 intent.putExtra(SELECTED_DEVOTION, leadershipDevotionalEntity)
                 startActivity(intent)
-//                startActivity(Intent(this, DetailedDevotionalActivity::class.java))
-//                devotionSelected(devotional[0]) // testing how alert-Dialog works
+                // add a slide in and out transition
+
+
             })
             dsRecyclerView.adapter = myAdapter
             myAdapter.notifyDataSetChanged()

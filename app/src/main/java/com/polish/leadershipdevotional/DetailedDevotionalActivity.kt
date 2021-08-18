@@ -59,4 +59,6 @@ class DetailedDevotionalActivity : AppCompatActivity() {
         const val SELECTED_DEVOTION = "content"
     }
 
+
+
 }

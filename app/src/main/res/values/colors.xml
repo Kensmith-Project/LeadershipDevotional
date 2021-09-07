@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bg_color">#218EC8</color>
     <color name="bg_color_two">#92B2CC</color>
+    <color name="launcher_background">#F8F8F8</color>
 </resources>

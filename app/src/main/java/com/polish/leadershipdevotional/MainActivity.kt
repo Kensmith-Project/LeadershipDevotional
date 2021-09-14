@@ -16,6 +16,10 @@ import com.polish.leadershipdevotional.model.LeadershipDevotionalEntity
 import com.polish.leadershipdevotional.viewmodel.LeadershipDevotionalViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
+/**
+ * Created by Osehiase Ehilen
+ * August-13-2021
+ */
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 

@@ -11,6 +11,9 @@ import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.snackbar.Snackbar
+import com.google.firebase.analytics.FirebaseAnalytics
+import com.google.firebase.analytics.ktx.analytics
+import com.google.firebase.ktx.Firebase
 import com.polish.leadershipdevotional.adapter.LeadershipDevotionalAdapter
 import com.polish.leadershipdevotional.model.LeadershipDevotionalEntity
 import com.polish.leadershipdevotional.viewmodel.LeadershipDevotionalViewModel

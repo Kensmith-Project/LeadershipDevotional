@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327012276585",
+    "project_id": "leadership-devotional-app",
+    "storage_bucket": "leadership-devotional-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327012276585:android:faa1f82ad659f227dd45f8",
+        "android_client_info": {
+          "package_name": "com.polish.leadershipdevotional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327012276585-u6u2opd7pvh1kb7uh7qsjch0m02q7l4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwhq34gMyNjxHcbuMzwmhO2FqROdUJjKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327012276585-u6u2opd7pvh1kb7uh7qsjch0m02q7l4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
